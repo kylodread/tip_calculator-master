@@ -1,0 +1,8 @@
+{
+  "cSpell.words": [
+    "cupertino",
+    "playstore"
+  ],
+  "java.configuration.updateBuildConfiguration": "interactive",
+  "cmake.sourceDirectory": "${workspaceFolder}/app/linux"
+}
